@@ -10,6 +10,14 @@ MediBot is an AI-powered automation tool designed to streamline healthcare data 
 ✅ **NLP-powered chatbot** for querying healthcare records  
 ✅ **Real-time analytics dashboard** with Streamlit  
 
+## 🔐 Security Measures  
+- **OAuth2 authentication** for user access  
+- **AES-256 encryption** for sensitive patient data  
+- **Rate-limiting & request validation** to prevent API abuse  
+- **TLS 1.2+ enforced** for all communications  
+- **Audit logging & anomaly detection** for security monitoring  
+
+
 ## 🛠️ Tech Stack  
 - Python, FastAPI, Databricks, Apache Spark  
 - PostgreSQL, MongoDB  
