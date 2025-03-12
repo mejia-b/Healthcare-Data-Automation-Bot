@@ -1,5 +1,6 @@
 # MediBot: AI-Powered Healthcare Data Assistant 🚀  
 
+
 ## 📌 Overview  
 MediBot is an AI-powered automation tool designed to streamline healthcare data workflows. It connects to FHIR-compliant systems, processes large-scale patient data, performs real-time quality checks, and provides insights via an interactive chatbot and dashboard.  
 
